@@ -1,0 +1,11 @@
+{
+  "style_name": "Default High Quality",
+  "description": "",
+  "lighting": {
+    "type": "natural lighting"
+  },
+  "background": {
+    "style": "simple background"
+  },
+  "quality_tags": ["4k", "detailed", "high resolution"]
+}

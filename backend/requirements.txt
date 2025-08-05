@@ -1,0 +1,9 @@
+# Arquivo: requirements.txt
+# Dependências do projeto Python.
+
+fastapi
+uvicorn[standard]
+python-dotenv
+httpx # Para fazer chamadas de API assíncronas para os modelos de IA
+fal-client # Para fazer chamadas para a Fal.ai
+openai>=1.0.0

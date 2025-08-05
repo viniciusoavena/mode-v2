@@ -1,0 +1,9 @@
+# Arquivo: .gitignore
+# Ignora o ambiente virtual, arquivos de ambiente e caches do Python.
+
+/venv/
+/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store

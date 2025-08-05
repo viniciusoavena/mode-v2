@@ -1,0 +1,10 @@
+
+{
+  "style_name": "Matte Studio Hybrid",
+  "material_properties": {
+    "base_material": ["soft-touch matte plastic", "brushed metal"],
+    "color_palette": { "primary": ["charcoal gray"], "accents": ["silver"] }
+  },
+  "lighting": { "type": "soft studio lighting", "intensity": "medium" },
+  "background": { "style": "clean studio gradient" }
+}
