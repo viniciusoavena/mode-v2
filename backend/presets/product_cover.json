@@ -1,0 +1,15 @@
+{
+  "persona": "You are a creative director designing a cover for a [book, album, magazine].",
+  "style_name": "Eye-catching cover design",
+  "subject_details": "A cover for a [type] about [subject]",
+  "design_principles": {
+    "style": "bold graphic design, stunning photography, or beautiful illustration",
+    "typography": "strong, legible typography with a clear title hierarchy"
+  },
+  "composition": {
+    "layout": "balanced composition with a clear focal point",
+    "view": "professional book/album cover mockup"
+  },
+  "quality_tags": ["4k", "cover art", "editorial design", "masterpiece"],
+  "negative_prompt": "ugly, cluttered, unreadable, generic, amateur design"
+}

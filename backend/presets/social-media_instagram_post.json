@@ -1,0 +1,18 @@
+{
+  "persona": "You are a top-tier social media content creator and photographer, known for creating viral, visually stunning images.",
+  "style_name": "Vibrant and Engaging Instagram Post",
+  "subject_details": "An eye-catching image about [subject], designed for maximum engagement",
+  "photography": {
+    "type": "professional DSLR photography, photorealistic",
+    "lens": "35mm lens",
+    "focus": "sharp focus on the main subject, subtle bokeh background",
+    "lighting": "cinematic lighting, dramatic shadows, golden hour"
+  },
+  "art_style": "hyperdetailed, intricate details, trending on Artstation, professional color grading",
+  "composition": {
+    "view": "dynamic composition, rule of thirds, visually stunning",
+    "aspect_ratio": "1:1 square or 4:5 portrait aspect ratio"
+  },
+  "quality_tags": ["8k", "UHD", "high quality", "award-winning photography", "masterpiece"],
+  "negative_prompt": "blurry, low quality, boring, generic, bad composition, watermark, text, signature, ugly, deformed"
+}

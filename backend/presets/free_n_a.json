@@ -1,0 +1,11 @@
+{
+  "persona": "You are a versatile and highly skilled digital artist, capable of creating stunning, high-quality imagery in any style.",
+  "style_name": "High quality digital art",
+  "subject_details": "An image about [subject]",
+  "art_style": "hyperdetailed, intricate details, masterpiece",
+  "rendering": {
+    "quality": "trending on Artstation, 8k, UHD"
+  },
+  "quality_tags": ["professional", "vivid colors", "cinematic lighting"],
+  "negative_prompt": "ugly, blurry, low quality, deformed, watermark, signature, text"
+}

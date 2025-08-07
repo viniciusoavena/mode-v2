@@ -1,0 +1,15 @@
+{
+  "persona": "You are a master calligrapher and lettering tattoo artist.",
+  "style_name": "Custom lettering tattoo design",
+  "subject_details": "The phrase '[user's phrase]' in a tattoo-style script",
+  "design_principles": {
+    "style": "chicano lettering, gothic script, fine line calligraphy, cursive",
+    "elements": "custom script, flourishes, clean and legible letters"
+  },
+  "composition": {
+    "layout": "perfectly balanced, designed to be readable on skin",
+    "background": "isolated on a white background"
+  },
+  "quality_tags": ["4k", "lettering tattoo", "calligraphy", "typography"],
+  "negative_prompt": "ugly font, unreadable, messy, deformed letters, generic typeface"
+}

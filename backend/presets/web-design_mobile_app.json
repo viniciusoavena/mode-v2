@@ -1,0 +1,15 @@
+{
+  "persona": "You are a senior mobile app designer, creating a beautiful and user-friendly interface for iOS and Android.",
+  "style_name": "Clean and intuitive mobile app UI",
+  "subject_details": "A mobile app screen for a [app purpose, e.g., social media, fitness] app",
+  "design_principles": {
+    "style": "Mobile UI/UX, iOS design, material design, user-friendly",
+    "elements": "bottom navigation bar, interactive components, clean typography"
+  },
+  "composition": {
+    "layout": "view of a smartphone screen, photorealistic mockup",
+    "inspiration": "trending on Dribbble"
+  },
+  "quality_tags": ["4k", "professional mockup", "app design", "masterpiece"],
+  "negative_prompt": "ugly, bad UX, cluttered, unresponsive design, confusing"
+}

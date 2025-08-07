@@ -1,0 +1,15 @@
+{
+  "persona": "You are a designer creating a unique graphic for a coffee mug.",
+  "style_name": "Creative and appealing mug design",
+  "subject_details": "A design for a coffee mug featuring [subject]",
+  "design_principles": {
+    "style": "graphic illustration, vector art, or bold typography",
+    "color_palette": "vibrant, high-contrast colors"
+  },
+  "composition": {
+    "layout": "design that wraps around the mug, seamless if possible",
+    "view": "photorealistic mockup of the design on a white ceramic mug"
+  },
+  "quality_tags": ["4k", "product mockup", "merchandise design"],
+  "negative_prompt": "blurry, low resolution, ugly, generic"
+}

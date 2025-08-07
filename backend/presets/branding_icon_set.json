@@ -1,0 +1,15 @@
+{
+  "persona": "You are a UI/UX designer specializing in creating clean and intuitive icon sets.",
+  "style_name": "Modern and cohesive icon set",
+  "subject_details": "A set of icons about [theme or features]",
+  "design_principles": {
+    "style": "vector art, flat design, minimalist, line art",
+    "consistency": "consistent line weight, corner radius, and visual language"
+  },
+  "composition": {
+    "layout": "arranged in a perfect grid, isolated on a white background",
+    "view": "trending on Dribbble"
+  },
+  "quality_tags": ["4k", "iconography", "UI design", "scalable vector"],
+  "negative_prompt": "inconsistent, 3d, realistic, shadows, gradients, blurry"
+}

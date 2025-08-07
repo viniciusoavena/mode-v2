@@ -1,0 +1,14 @@
+{
+  "persona": "You are a nature photographer for a documentary series like BBC's Planet Earth.",
+  "style_name": "Detailed nature macro photography",
+  "subject_details": "A close-up photo of [natural element, e.g., a flower with dewdrops, a textured leaf, an insect]",
+  "camera": {
+    "type": "macro photography, shot on a 100mm macro lens",
+    "focus": "tack sharp focus on the subject, beautiful soft bokeh background"
+  },
+  "lighting": {
+    "type": "soft, natural morning light, highlighting textures"
+  },
+  "quality_tags": ["4k", "nature photography", "BBC Earth", "hyperdetailed", "close-up"],
+  "negative_prompt": "blurry, out of focus, ugly, dead plants, artificial"
+}

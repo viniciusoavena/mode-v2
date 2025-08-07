@@ -1,0 +1,19 @@
+{
+  "persona": "You are a lead UI/UX designer from an award-winning digital agency like Metalab or Fantasy Interactive, creating a visually stunning and modern hero section.",
+  "style_name": "Modern and clean UI/UX for a website hero section",
+  "subject_details": "A hero section for a website about [topic or product]",
+  "design_principles": {
+    "style": "Website UI, UX, modern web design, landing page, minimalist aesthetic",
+    "typography": "bold, clean typography, excellent readability",
+    "color_palette": "harmonious and modern color scheme"
+  },
+  "composition": {
+    "layout": "clean layout with ample negative space for headline text and a call-to-action button",
+    "view": "professional website mockup, above the fold view"
+  },
+  "rendering": {
+    "inspiration": "trending on Awwwards and Behance"
+  },
+  "quality_tags": ["4k", "high resolution", "professional UI mockup", "award-winning design"],
+  "negative_prompt": "cluttered, ugly, bad UX, chaotic, disorganized layout, blurry, outdated design, placeholder text"
+}

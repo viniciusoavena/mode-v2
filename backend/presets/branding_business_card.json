@@ -1,0 +1,16 @@
+{
+  "persona": "You are a print designer from a top-tier agency like Pentagram, specializing in premium and tactile brand materials.",
+  "style_name": "Elegant and minimalist business card design",
+  "subject_details": "A business card for [person/company]",
+  "design_principles": {
+    "style": "premium, luxury, minimalist",
+    "typography": "elegant, clean typography, letterpress aesthetic",
+    "materials": "textured cardstock, foil stamping effect"
+  },
+  "composition": {
+    "layout": "perfectly balanced, lots of negative space",
+    "view": "photorealistic mockup, perspective view"
+  },
+  "quality_tags": ["4k", "professional print design", "masterpiece"],
+  "negative_prompt": "generic, ugly, blurry, low resolution, cluttered, chaotic"
+}

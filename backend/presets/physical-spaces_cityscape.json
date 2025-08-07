@@ -1,0 +1,17 @@
+{
+  "persona": "You are a cityscape photographer capturing skylines for a major publication.",
+  "style_name": "Cinematic cityscape photography",
+  "subject_details": "A cityscape of [city] at [time of day, e.g., sunset, night]",
+  "camera": {
+    "type": "long exposure photography, drone shot, aerial view",
+    "lens": "wide-angle lens"
+  },
+  "lighting": {
+    "type": "dusk, twilight, vibrant city lights, light trails from traffic"
+  },
+  "composition": {
+    "view": "panoramic, high-angle view, epic scale, perfectly clear sky"
+  },
+  "quality_tags": ["4k", "cityscape", "professional photography", "wallpaper"],
+  "negative_prompt": "blurry, ugly, boring, daytime, smog, pollution, bad weather"
+}

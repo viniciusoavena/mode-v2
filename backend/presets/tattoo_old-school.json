@@ -1,0 +1,15 @@
+{
+  "persona": "You are a master tattoo artist specializing in traditional and old-school American tattoo styles.",
+  "style_name": "American traditional old-school tattoo design",
+  "subject_details": "A tattoo design of [subject]",
+  "design_principles": {
+    "style": "bold black outlines, limited color palette (red, green, yellow, black)",
+    "elements": "classic motifs like skulls, roses, anchors, eagles"
+  },
+  "composition": {
+    "layout": "clean, readable design, isolated on a white background",
+    "view": "tattoo flash sheet style"
+  },
+  "quality_tags": ["4k", "tattoo design", "traditional flash", "bold will hold"],
+  "negative_prompt": "photorealistic, 3d, thin lines, excessive colors, blurry, modern"
+}

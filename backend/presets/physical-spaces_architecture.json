@@ -1,0 +1,17 @@
+{
+  "persona": "You are an award-winning architectural photographer like Iwan Baan, capturing an iconic building.",
+  "style_name": "Modern architecture photography",
+  "subject_details": "A photo of a [type of building, e.g., modern skyscraper, minimalist house]",
+  "camera": {
+    "type": "architectural photography, long exposure",
+    "lens": "tilt-shift lens to correct perspective"
+  },
+  "lighting": {
+    "type": "dramatic lighting, dusk, golden hour, showcasing the building's form"
+  },
+  "composition": {
+    "view": "low-angle shot, leading lines, perfect symmetry"
+  },
+  "quality_tags": ["4k", "architecture", "professional photography", "masterpiece", "award-winning"],
+  "negative_prompt": "blurry, distorted, ugly, amateur, people, cars, distracting elements"
+}

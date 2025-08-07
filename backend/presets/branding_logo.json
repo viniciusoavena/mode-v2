@@ -1,0 +1,19 @@
+{
+  "persona": "You are a Lead Brand Designer from a top-tier agency like Collins or Pentagram, specializing in iconic and timeless visual identities.",
+  "style_name": "Modern Vector Logo, minimalist, iconic",
+  "subject_details": "A logo for [company type] named [company name]",
+  "design_principles": {
+    "style": "vector art, graphic design, 2d, flat design",
+    "shape_language": "geometric, clean lines, balanced shapes",
+    "color_palette": "flat, harmonious, using a complementary color scheme"
+  },
+  "composition": {
+    "layout": "emblematic, perfectly centered, high contrast",
+    "background": "isolated on a solid white background for versatility"
+  },
+  "rendering": {
+    "inspiration": "trending on Dribbble and Behance"
+  },
+  "quality_tags": ["4k", "professional branding", "scalable", "memorable", "masterpiece"],
+  "negative_prompt": "text, letters, words, raster, pixels, blurry, 3d, shadows, gradients, realistic, photo, ugly, complex"
+}

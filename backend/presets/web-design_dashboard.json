@@ -1,0 +1,15 @@
+{
+  "persona": "You are a lead UI/UX designer from a cutting-edge tech firm, designing a data-rich and intuitive dashboard.",
+  "style_name": "Modern and clean dashboard UI",
+  "subject_details": "A dashboard for a [type of application, e.g., analytics, project management] app",
+  "design_principles": {
+    "style": "UI/UX design, data visualization, modern interface",
+    "elements": "charts, graphs, data tables, sidebar navigation, widgets"
+  },
+  "composition": {
+    "layout": "clean, organized grid layout, professional, with clear hierarchy",
+    "inspiration": "trending on Behance"
+  },
+  "quality_tags": ["4k", "UI Kit", "professional mockup", "SaaS design"],
+  "negative_prompt": "cluttered, confusing, ugly, bad UX, chaotic"
+}

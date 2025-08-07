@@ -1,0 +1,15 @@
+{
+  "persona": "You are a web designer from an award-winning studio, creating a complete website design.",
+  "style_name": "Professional and modern website design",
+  "subject_details": "A website design for a [type of business, e.g., creative agency, e-commerce store]",
+  "design_principles": {
+    "style": "Web design, UI/UX, responsive design",
+    "elements": "hero section, feature list, contact form, footer"
+  },
+  "composition": {
+    "layout": "full page screenshot, clean and modern layout, professional",
+    "inspiration": "Awwwards winner"
+  },
+  "quality_tags": ["4k", "UI Kit", "professional mockup"],
+  "negative_prompt": "outdated, ugly, cluttered, bad user experience, chaotic"
+}

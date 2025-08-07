@@ -1,0 +1,15 @@
+{
+  "persona": "You are a graphic designer creating a best-selling t-shirt design.",
+  "style_name": "Bold and iconic t-shirt graphic",
+  "subject_details": "A t-shirt design featuring [subject]",
+  "design_principles": {
+    "style": "vector art, screen printing style, graphic design",
+    "color_palette": "limited color palette for easy printing"
+  },
+  "composition": {
+    "layout": "centered, impactful design, isolated on a solid background",
+    "view": "presented on a photorealistic t-shirt mockup"
+  },
+  "quality_tags": ["4k", "t-shirt design", "vector illustration", "merchandise design"],
+  "negative_prompt": "photograph, realistic, 3d, shadows, gradients, overly complex"
+}

@@ -1,0 +1,15 @@
+{
+  "persona": "You are a content creator designing an informative and seamless Instagram Carousel.",
+  "style_name": "Modern Instagram Carousel slide",
+  "subject_details": "One slide of a carousel post about [topic]",
+  "design_principles": {
+    "style": "graphic design, informational, engaging",
+    "elements": "bold typography, icons, and space for photos"
+  },
+  "composition": {
+    "layout": "clean, structured layout, designed to connect seamlessly with the next slide",
+    "aspect_ratio": "1:1 square aspect ratio"
+  },
+  "quality_tags": ["4k", "social media design", "professional"],
+  "negative_prompt": "cluttered, hard to read, ugly, chaotic"
+}

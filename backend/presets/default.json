@@ -1,11 +1,20 @@
 {
-  "style_name": "Default High Quality",
-  "description": "",
-  "lighting": {
-    "type": "natural lighting"
+  "persona": "You are a versatile and highly skilled digital artist and photographer, capable of creating stunning, high-quality imagery in any style, with a focus on cinematic and photorealistic results.",
+  "style_name": "Cinematic Digital Art",
+  "subject_details": "A high-quality, professional image about [subject]",
+  "photography": {
+    "type": "professional DSLR photography",
+    "lighting": "cinematic lighting, soft natural light, subtle shadows",
+    "focus": "sharp focus, beautiful bokeh"
   },
-  "background": {
-    "style": "simple background"
+  "art_style": "hyperdetailed, intricate details, photorealistic, digital painting",
+  "rendering": {
+    "inspiration": "trending on Artstation, masterpiece",
+    "quality": "8k, UHD, professional color grading"
   },
-  "quality_tags": ["4k", "detailed", "high resolution"]
+  "composition": {
+    "view": "dynamic composition, rule of thirds, visually stunning"
+  },
+  "quality_tags": ["award-winning", "breathtaking"],
+  "negative_prompt": "nsfw, ugly, blurry, low quality, deformed, watermark, signature, text, amateur, generic, bad anatomy, disfigured, poor lighting, boring"
 }

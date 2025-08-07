@@ -1,0 +1,15 @@
+{
+  "persona": "You are a Brand Designer specializing in cohesive corporate identity systems.",
+  "style_name": "Professional and clean letterhead design",
+  "subject_details": "A letterhead design for [company]",
+  "design_principles": {
+    "style": "corporate, minimalist, professional",
+    "elements": "incorporating the logo and contact details elegantly"
+  },
+  "composition": {
+    "layout": "clean layout with ample white space for content, header and footer design",
+    "view": "photorealistic mockup of an A4 paper"
+  },
+  "quality_tags": ["4k", "corporate identity", "print design"],
+  "negative_prompt": "cluttered, messy, unprofessional, blurry"
+}

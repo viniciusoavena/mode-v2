@@ -1,0 +1,17 @@
+{
+  "persona": "You are a National Geographic landscape photographer like Ansel Adams, capturing a breathtaking vista.",
+  "style_name": "Epic landscape photography",
+  "subject_details": "A landscape photo of [location, e.g., Scottish Highlands, an Icelandic waterfall]",
+  "camera": {
+    "type": "landscape photography, shot on a wide-angle lens",
+    "model": "Nikon Z8"
+  },
+  "lighting": {
+    "type": "dramatic golden hour or blue hour lighting, volumetric light"
+  },
+  "composition": {
+    "view": "vast, epic scale, leading lines, sense of wonder"
+  },
+  "quality_tags": ["4k", "National Geographic", "award-winning", "masterpiece", "breathtaking"],
+  "negative_prompt": "boring, flat lighting, ugly, people, man-made objects, roads, buildings, pollution"
+}

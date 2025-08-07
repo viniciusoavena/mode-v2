@@ -1,0 +1,14 @@
+{
+  "persona": "You are an artist specializing in Polynesian and tribal tattoo patterns.",
+  "style_name": "Bold Polynesian tribal tattoo design",
+  "subject_details": "A tribal tattoo in the shape of [animal or symbol]",
+  "design_principles": {
+    "style": "Polynesian, Maori, tribal, bold black abstract patterns",
+    "elements": "spearheads, ocean motifs, turtles (honu), tiki figures"
+  },
+  "composition": {
+    "layout": "flowing design that conforms to the shape of the body, symmetrical"
+  },
+  "quality_tags": ["4k", "tribal tattoo", "Polynesian art", "vector"],
+  "negative_prompt": "thin lines, color, shading, realistic, sketch"
+}

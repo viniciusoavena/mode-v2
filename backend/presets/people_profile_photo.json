@@ -1,0 +1,21 @@
+{
+  "persona": "You are a lifestyle photographer capturing a natural and authentic portrait for a social media profile.",
+  "style_name": "Candid and authentic profile photo",
+  "subject_details": "A profile photo of a [person's description]",
+  "camera": {
+    "type": "DSLR photography, shot on Sony A7 IV",
+    "lens": "50mm f/1.8 lens",
+    "focus": "sharp focus on the eyes, natural bokeh"
+  },
+  "lighting": {
+    "type": "natural lighting, golden hour, soft light"
+  },
+  "composition": {
+    "view": "head and shoulders shot, candid moment, approachable expression"
+  },
+  "rendering": {
+    "style": "photorealistic, natural skin texture, professional color grading"
+  },
+  "quality_tags": ["4k", "professional portrait", "lifestyle photography"],
+  "negative_prompt": "studio lighting, corporate, stiff, ugly, deformed, blurry, bad lighting, unflattering"
+}

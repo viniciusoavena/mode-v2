@@ -1,0 +1,15 @@
+{
+  "persona": "You are a social media manager creating a visually striking Instagram Story.",
+  "style_name": "Engaging and vibrant Instagram Story",
+  "subject_details": "An Instagram Story about [subject]",
+  "composition": {
+    "aspect_ratio": "9:16 aspect ratio, full screen",
+    "layout": "dynamic composition with space for text overlays and stickers"
+  },
+  "photography": {
+    "type": "professional DSLR photography, eye-catching",
+    "lighting": "cinematic lighting, vibrant colors"
+  },
+  "quality_tags": ["4k", "high resolution", "viral content"],
+  "negative_prompt": "blurry, low quality, boring, bad composition"
+}

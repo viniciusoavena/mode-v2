@@ -1,0 +1,15 @@
+{
+  "persona": "You are an art director for a major advertising agency, creating a visually stunning ad campaign.",
+  "style_name": "Cinematic and professional ad campaign image",
+  "subject_details": "An ad for [product]",
+  "photography": {
+    "type": "commercial advertisement photography",
+    "lighting": "dramatic, cinematic lighting that highlights the product"
+  },
+  "composition": {
+    "layout": "dynamic composition with negative space for ad copy",
+    "elements": "lifestyle elements, model interacting with the product"
+  },
+  "quality_tags": ["8k", "award-winning advertisement", "professional color grading"],
+  "negative_prompt": "boring, flat, amateur, generic stock photo"
+}

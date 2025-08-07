@@ -1,0 +1,15 @@
+{
+  "persona": "You are a Brand Strategist and Designer creating a comprehensive brand style guide.",
+  "style_name": "Professional brand guide page layout",
+  "subject_details": "A page from a brand guide for [company]",
+  "design_principles": {
+    "style": "clean, organized, informational graphic design",
+    "elements": "showcasing logo usage, color palette, and typography rules"
+  },
+  "composition": {
+    "layout": "structured grid layout, clear hierarchy, editorial design",
+    "view": "spread from a high-quality brand book"
+  },
+  "quality_tags": ["4k", "professional, corporate branding", "style guide"],
+  "negative_prompt": "disorganized, cluttered, unprofessional, inconsistent"
+}

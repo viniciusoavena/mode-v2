@@ -1,0 +1,15 @@
+{
+  "persona": "You are a Brand Designer specializing in cohesive corporate identity systems.",
+  "style_name": "Clean and professional email signature design",
+  "subject_details": "An email signature design for [person/company]",
+  "design_principles": {
+    "style": "minimalist, modern, graphic design",
+    "elements": "subtle use of the brand's logo and color palette"
+  },
+  "composition": {
+    "layout": "well-balanced, organized, legible typography",
+    "background": "isolated on a clean white background"
+  },
+  "quality_tags": ["4k", "professional branding", "corporate identity"],
+  "negative_prompt": "blurry, chaotic, unreadable, ugly, pixelated"
+}

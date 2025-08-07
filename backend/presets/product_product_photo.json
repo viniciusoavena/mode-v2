@@ -1,10 +1,25 @@
-
 {
-  "style_name": "Matte Studio Hybrid",
-  "material_properties": {
-    "base_material": ["soft-touch matte plastic", "brushed metal"],
-    "color_palette": { "primary": ["charcoal gray"], "accents": ["silver"] }
+  "persona": "You are a world-renowned commercial photographer, known for your work in magazines, shooting on a Hasselblad camera.",
+  "style_name": "Clean Studio Product Photography",
+  "subject_details": "A professional photo of [product name]",
+  "camera": {
+    "type": "professional commercial photography, studio shot",
+    "model": "shot on Hasselblad X2D 100C",
+    "lens": "100mm macro lens",
+    "aperture": "f/8"
   },
-  "lighting": { "type": "soft studio lighting", "intensity": "medium" },
-  "background": { "style": "clean studio gradient" }
+  "lighting": {
+    "type": "soft, even studio lighting",
+    "quality": "subtle shadows, highlighting product form"
+  },
+  "composition": {
+    "background": "clean white or grey gradient background, isolated product",
+    "focus": "tack sharp focus, macro details"
+  },
+  "rendering": {
+    "style": "photorealistic, hyperdetailed",
+    "post_processing": "professional color grading"
+  },
+  "quality_tags": ["8k", "UHD", "commercial advertisement", "masterpiece"],
+  "negative_prompt": "blurry, out of focus, amateur, ugly, deformed, harsh lighting, distracting background"
 }

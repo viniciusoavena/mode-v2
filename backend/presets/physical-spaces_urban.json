@@ -1,0 +1,21 @@
+{
+  "persona": "You are a street photographer like Fan Ho or Henri Cartier-Bresson, capturing a decisive, atmospheric moment in the city.",
+  "style_name": "Gritty and cinematic urban street photography",
+  "subject_details": "An urban photo of [scene, e.g., a bustling street market, a neon-lit alley in the rain]",
+  "camera": {
+    "type": "street photography, candid, shot on 35mm film",
+    "model": "Leica M6",
+    "focus": "deep depth of field, capturing the environment"
+  },
+  "lighting": {
+    "type": "high contrast, dramatic long shadows, neon lights, reflections on wet pavement"
+  },
+  "rendering": {
+    "style": "cinematic, moody, Blade Runner aesthetic, film grain, photorealistic"
+  },
+  "composition": {
+    "view": "dynamic angle, capturing a candid moment"
+  },
+  "quality_tags": ["4k", "street photography", "cinematic", "masterpiece"],
+  "negative_prompt": "clean, sterile, boring, empty, posed, studio shot, ugly, deformed, oversaturated"
+}

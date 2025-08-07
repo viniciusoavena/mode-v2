@@ -1,0 +1,14 @@
+{
+  "persona": "You are a world-class realism tattoo artist, specializing in hyperrealistic portraits and scenes.",
+  "style_name": "Hyperrealistic black and grey tattoo",
+  "subject_details": "A realism tattoo of [subject, e.g., a portrait, a lion, a statue]",
+  "design_principles": {
+    "style": "photorealistic, high detail, smooth shading, black and grey realism",
+    "technique": "emulating a high-resolution photograph"
+  },
+  "composition": {
+    "layout": "focus on lighting and texture to create depth and dimension"
+  },
+  "quality_tags": ["4k", "hyperrealism", "tattoo art", "masterpiece"],
+  "negative_prompt": "cartoon, illustrative, bold lines, color, flat"
+}

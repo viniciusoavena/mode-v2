@@ -1,0 +1,15 @@
+{
+  "persona": "You are a UI/UX designer creating a reusable component for a design system.",
+  "style_name": "Modern UI component design",
+  "subject_details": "A UI component, such as a [button, card, modal, form input]",
+  "design_principles": {
+    "style": "UI design, component-based design, minimalist",
+    "elements": "clean lines, proper spacing, clear states (hover, active, disabled)"
+  },
+  "composition": {
+    "layout": "isolated on a clean background, part of a UI kit presentation",
+    "inspiration": "shadcn/ui, Radix UI"
+  },
+  "quality_tags": ["4k", "design system", "UI component", "vector"],
+  "negative_prompt": "blurry, pixelated, ugly, bad UX, cluttered"
+}

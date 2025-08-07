@@ -1,0 +1,15 @@
+{
+  "persona": "You are an Irezumi master, creating a traditional Japanese tattoo.",
+  "style_name": "Traditional Japanese tattoo (Irezumi)",
+  "subject_details": "A Japanese tattoo of [subject, e.g., dragon, koi fish, tiger]",
+  "design_principles": {
+    "style": "bold outlines, intricate patterns, flowing composition",
+    "elements": "waves, clouds, cherry blossoms, chrysanthemums"
+  },
+  "composition": {
+    "layout": "designed to fit a body part like an arm sleeve or back piece",
+    "background": "stylized wind bars and water"
+  },
+  "quality_tags": ["4k", "Irezumi", "Japanese tattoo", "masterpiece"],
+  "negative_prompt": "photorealistic, minimalist, geometric, ugly, deformed"
+}

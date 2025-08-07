@@ -1,9 +1,29 @@
 # File: backend/core/prompt_composer.py
 import json
 import os
+import random
 from typing import Dict, Any
 
 PRESETS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'presets')
+
+# Dicionário de "Ingredientes Secretos" para rotação de estilo
+STYLE_INFLUENCERS = {
+    "branding": {
+        "Logo": [
+            "inspired by the strategic design of Collins",
+            "minimalism in the style of Pentagram",
+            "bold identity reminiscent of Wolff Olins",
+            "modern startup branding like Red Antler"
+        ]
+    },
+    "web-design": {
+        "Hero section": [
+            "UI design inspired by Metalab",
+            "interface with the clean aesthetic of Instrument",
+            "digital experience in the style of Fantasy Interactive"
+        ]
+    }
+}
 
 def load_preset(creative_mode: str, context: str) -> Dict[str, Any]:
     """Carrega o arquivo JSON do preset com base no modo e contexto."""
@@ -22,33 +42,28 @@ def load_preset(creative_mode: str, context: str) -> Dict[str, Any]:
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def apply_modifiers(preset_data: Dict[str, Any], modifiers: Dict[str, Any]) -> Dict[str, Any]:
+def apply_modifiers_and_influence(preset_data: Dict[str, Any], modifiers: Dict[str, Any], creative_mode: str, context: str) -> Dict[str, Any]:
     """
-    Aplica dinamicamente os modificadores, construindo uma nova lista de estilos.
+    Aplica os modificadores da UI e injeta aleatoriamente uma influência de estilo secreta.
     """
-    if not modifiers:
-        return preset_data
+    # 1. Aplicar os modificadores do utilizador, se existirem
+    if modifiers:
+        style_parts = []
+        if "style" in modifiers: style_parts.append(modifiers["style"])
+        if "mood" in modifiers: style_parts.append(modifiers["mood"])
+        if "colors" in modifiers: style_parts.append(f"{modifiers['colors']} color palette")
 
-    # --- INÍCIO DA CORREÇÃO ---
-    # Cria uma nova lista para os estilos, em vez de modificar a existente.
-    style_parts = []
+        if style_parts:
+            preset_data["style_name"] = ", ".join(filter(None, style_parts))
 
-    # Adiciona o Style do modifier, se existir
-    if "style" in modifiers:
-        style_parts.append(modifiers["style"])
-
-    # Adiciona o Mood do modifier, se existir
-    if "mood" in modifiers:
-        style_parts.append(modifiers["mood"])
-        
-    # Adiciona as Cores do modifier, se existir
-    if "colors" in modifiers:
-        style_parts.append(modifiers["colors"] + " color palette")
-
-    # Se a lista de estilos não estiver vazia, ela substitui o style_name do preset.
-    # Caso contrário, o style_name original do preset é mantido.
-    if style_parts:
-        preset_data["style_name"] = ", ".join(filter(None, style_parts))
-    # --- FIM DA CORREÇÃO ---
-    
+    # 2. Injetar a influência secreta
+    influencer_list = STYLE_INFLUENCERS.get(creative_mode.lower(), {}).get(context, [])
+    if influencer_list:
+        chosen_influence = random.choice(influencer_list)
+        # Adiciona a influência ao final do style_name
+        if preset_data.get("style_name"):
+            preset_data["style_name"] += f", {chosen_influence}"
+        else:
+            preset_data["style_name"] = chosen_influence
+            
     return preset_data

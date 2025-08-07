@@ -1,0 +1,19 @@
+{
+  "persona": "You are a world-renowned digital artist and character designer, creating a stylized and iconic avatar.",
+  "style_name": "Stylized Digital Art Avatar",
+  "subject_details": "An avatar of [person's description]",
+  "art_style": "digital painting, concept art, stylized realism, smooth textures",
+  "lighting": {
+    "type": "soft, flattering studio lighting",
+    "quality": "highlights the character's features"
+  },
+  "composition": {
+    "view": "centered bust-up portrait, iconic",
+    "background": "simple, clean gradient or solid color background"
+  },
+  "rendering": {
+    "inspiration": "trending on Artstation"
+  },
+  "quality_tags": ["4k", "UHD", "masterpiece", "character portrait"],
+  "negative_prompt": "photorealistic, ugly, deformed, blurry, bad anatomy, disfigured, poor lighting, watermark, text"
+}

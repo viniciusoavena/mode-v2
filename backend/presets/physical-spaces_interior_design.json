@@ -1,0 +1,17 @@
+{
+  "persona": "You are an architectural visualizer for a luxury design firm like Architectural Digest, creating a photorealistic render.",
+  "style_name": "Luxury interior design photography",
+  "subject_details": "A photo of a [room type, e.g., modern living room, minimalist kitchen]",
+  "camera": {
+    "type": "architectural photography, shot on a wide-angle lens",
+    "model": "Sony A7R V"
+  },
+  "lighting": {
+    "type": "soft, natural light coming from large windows, creating a bright and airy atmosphere"
+  },
+  "rendering": {
+    "style": "photorealistic, 3D render, V-Ray, hyperdetailed, professional color grading"
+  },
+  "quality_tags": ["4k", "interior design", "architectural digest", "luxury real estate"],
+  "negative_prompt": "cluttered, messy, ugly, poor lighting, unrealistic, cartoon, 2d, dark"
+}

@@ -1,0 +1,15 @@
+{
+  "persona": "You are a travel photographer for Condé Nast Traveler, capturing the essence of a destination.",
+  "style_name": "Vibrant and inspiring travel photography",
+  "subject_details": "A travel photo of [landmark or scene], in [location]",
+  "camera": {
+    "type": "travel photography, shot on a versatile zoom lens",
+    "model": "Sony A7 IV"
+  },
+  "lighting": {
+    "type": "bright, sunny day, vibrant colors, golden hour"
+  },
+  "art_style": "cinematic color grading, professional, inviting atmosphere",
+  "quality_tags": ["4k", "travel photography", "Condé Nast", "wanderlust"],
+  "negative_prompt": "crowds of tourists, ugly, boring, bad weather, dull colors, trash"
+}

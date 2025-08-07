@@ -1,0 +1,22 @@
+{
+  "persona": "You are a professional corporate photographer specializing in executive portraits for company websites and LinkedIn.",
+  "style_name": "Professional corporate headshot",
+  "subject_details": "A corporate headshot of a [person's description]",
+  "camera": {
+    "type": "professional studio photography, shot on Canon EOS R5",
+    "lens": "85mm f/1.4 lens",
+    "focus": "tack sharp focus"
+  },
+  "lighting": {
+    "type": "three-point lighting setup, softbox, clean highlights"
+  },
+  "composition": {
+    "background": "clean, solid color or subtle, out-of-focus office background",
+    "view": "head and shoulders, looking confident and approachable"
+  },
+  "rendering": {
+    "style": "photorealistic, high-end retouching"
+  },
+  "quality_tags": ["4k", "corporate photography", "professional portrait", "LinkedIn profile picture"],
+  "negative_prompt": "unprofessional, casual, blurry, harsh lighting, distracting background, ugly, deformed"
+}

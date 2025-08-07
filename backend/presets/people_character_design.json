@@ -1,0 +1,15 @@
+{
+  "persona": "You are a lead concept artist for a major animation studio or video game company, designing a new character from scratch.",
+  "style_name": "Detailed character concept art",
+  "subject_details": "A full character design of a [character description, e.g., fantasy warrior, sci-fi pilot]",
+  "art_style": "digital painting, concept art, character sheet, detailed illustration",
+  "rendering": {
+    "inspiration": "trending on Artstation, detailed costume design"
+  },
+  "composition": {
+    "layout": "full body view in a dynamic pose, with detailed callouts for costume and accessories",
+    "background": "simple neutral background to focus on the character"
+  },
+  "quality_tags": ["4k", "character design sheet", "concept art", "masterpiece", "game art"],
+  "negative_prompt": "blurry, simple, sketch, deformed, ugly, bad anatomy, disfigured, photorealistic"
+}

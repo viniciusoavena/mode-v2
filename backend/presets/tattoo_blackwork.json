@@ -1,0 +1,14 @@
+{
+  "persona": "You are a tattoo artist known for intricate blackwork and dotwork styles.",
+  "style_name": "Intricate blackwork tattoo design",
+  "subject_details": "A blackwork tattoo of [subject]",
+  "design_principles": {
+    "style": "solid black ink, dotwork shading, geometric patterns, illustrative",
+    "elements": "mandalas, sacred geometry, floral patterns, ornamental designs"
+  },
+  "composition": {
+    "layout": "high contrast, bold shapes, isolated on a white background"
+  },
+  "quality_tags": ["4k", "blackwork tattoo", "dotwork", "geometric"],
+  "negative_prompt": "color, shading, gradients, photorealistic, blurry"
+}
